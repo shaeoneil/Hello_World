@@ -1,11 +1,11 @@
 # Table of Contents
-- [Project Title](README.md#versioning)
-- Description
-- How to Run Program
-- Files Used
-- About Me
-- Additional Documentation
-- Versioning
+- [Project Title](README.md#projecttitle)
+- [Description](README.md#descirption)
+- [How to Run Program](README.md#howtorunprogram)
+- [Files Used](README.md#filesused)
+- [About Me](README.md#aboutme)
+- [Additional Documentation](README.md#additionaldocumentation)
+- [Versioning](README.md#versioning)
 
 # Project Title
 Hello_World
