@@ -1,10 +1,10 @@
 # Table of Contents
-- a. Project Title
-- b. Description
-- c. How to Run Program
-- d. Files Used
-- e. Additional Documentation
-- f. Versioning
+- Project Title
+- Description
+- How to Run Program
+- Files Used
+- Additional Documentation
+- Versioning
 
 # Project Title
 Hello_World
