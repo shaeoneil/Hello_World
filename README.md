@@ -16,11 +16,11 @@ Practice using Github by creating sample repository
 Explain here how you would run the program and what files need to be available.
 
 Hello_World/
-└── 
-    │── README.md
-    │── pgmname1.R
-    │── filename1.csv
-    │── examples.html
+-└── 
+    -│── README.md
+   - │── pgmname1.R
+   - │── filename1.csv
+   - │── examples.html
    
 
 # Files Used 
