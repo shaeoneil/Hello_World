@@ -1,13 +1,13 @@
 # Table of Contents
-- [Project Title]
-- [Description]
-- [How to Run Program]
-- [Files Used]
-- [About Me]
-- [Additional Documentation]
-- [Versioning]
+- (Project Title)
+- (Description)
+- (How to Run Program)
+- (Files Used)
+- (About Me)
+- (Additional Documentation)
+- (Versioning)
 
-# (Project Title)
+# [Project Title]
 Hello_World
 
 # (Description)
