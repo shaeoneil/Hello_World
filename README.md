@@ -3,7 +3,7 @@
 - [Description](README.md#description)
 - [How to Run Program](README.md#how-to-run-program)
 - [Files Used](README.md#files-used)
-- [About Me](README.md#aboutme)
+- [About Me](README.md#about-me)
 - [Additional Documentation](README.md#additional-documentation)
 - [Versioning](README.md#versioning)
 
