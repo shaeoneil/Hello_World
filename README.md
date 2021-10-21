@@ -35,4 +35,4 @@ I am a senior at the University of Iowa studying ***Business Analytics***. I am 
 
 # (Versioning)
 version 2 
--- updated October 2021
+- updated October 2021
