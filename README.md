@@ -1,6 +1,6 @@
 # Table of Contents
 - [Project Title](README.md#project-title)
-- [Description](README.md#descirption)
+- [Description](README.md#description)
 - [How to Run Program](README.md#how-to-run-program)
 - [Files Used](README.md#files-used)
 - [About Me](README.md#aboutme)
