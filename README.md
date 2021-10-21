@@ -1,5 +1,5 @@
 # Table of Contents
-- [Project Title](docs/Project Title.md)
+- [Project Title](README.md#versioning)
 - Description
 - How to Run Program
 - Files Used
